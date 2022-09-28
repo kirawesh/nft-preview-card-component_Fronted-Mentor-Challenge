@@ -78,7 +78,7 @@ body {
     font-size: 1.4rem;
     font-weight: var(--fw-600);
     color: var(--nc-White);
-    margin-top: 1.375em;
+    margin-top: 1.15em;
 }
 
 .title:hover {
@@ -99,7 +99,7 @@ body {
     align-items: center;
     font-size: 0.6875rem;
     border-bottom: 0.0625em solid var(--nc-Line);
-    padding: 1.5em 0;
+    padding: 2em 0;
 }
 
 .left {
