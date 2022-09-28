@@ -136,6 +136,11 @@ body {
     border: 0.0938em solid var(--nc-White);
 }
 
+.credit-text {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
 .credit-text span {
     color: var(--nc-White);
 }
